@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [1.23.0] - 2024-06-06
+
+### Updated
+
+- update prisma to v5.x.x
+
 ## [1.22.0] - 2024-05-31
 
 ### Added
